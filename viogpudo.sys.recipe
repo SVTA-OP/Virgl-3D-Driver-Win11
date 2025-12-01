@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\sarav\Downloads\Repos\kvm-guest-drivers-windows\viogpu\viogpusc\objfre_win11_amd64\amd64\vgpusrv.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\sarav\Downloads\Repos\kvm-guest-drivers-windows\viogpu\viogpuap\objfre_win11_amd64\amd64\viogpuap.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\sarav\Downloads\Repos\kvm-guest-drivers-windows\viogpu\viogpudo\objfre_win11_amd64\amd64\viogpudo.sys</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
